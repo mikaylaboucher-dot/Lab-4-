@@ -20,7 +20,7 @@ body {
     flex-direction: column;
     gap: 15px;
     padding: 20px;
-    background-color: #0F172A;
+    background-color: plum;
     color: white;
 }
 
@@ -65,7 +65,7 @@ body {
 
 /* Main hero banner */
 .hero-banner {
-    background-color: #0284C7;
+    background-color: purple;
     color: white;
     padding: 30px;
 }
@@ -144,7 +144,7 @@ body {
     gap: 10px;
     margin-top: 24px;
     padding: 20px;
-    background-color: #0F172A;
+    background-color: plum;
     color: white;
 }
 
